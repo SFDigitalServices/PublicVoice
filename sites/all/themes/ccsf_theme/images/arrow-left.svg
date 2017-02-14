@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="34px" height="56px" viewBox="0 0 34 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Left arrow@1.5x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="T1--Home-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.65">
+        <g id="Home-1440-_alternate" transform="translate(-48.000000, -2315.000000)" fill="#FFFFFF">
+            <path d="M79.292744,2370.64481 L48,2343.00023 L79.292744,2315.35504 C79.827909,2314.88165 80.6978951,2314.88165 81.2330601,2315.35504 C81.7689112,2315.82904 81.7689112,2316.5958 81.2330601,2317.06919 L51.8813184,2343.00023 L81.2330601,2368.93066 C81.7689112,2369.40405 81.7689112,2370.17141 81.2330601,2370.64481 C80.9654776,2370.8818 80.6141898,2371 80.262902,2371 C79.9116143,2371 79.5603265,2370.8818 79.292744,2370.64481 Z" id="Left-arrow"></path>
+        </g>
+    </g>
+</svg>

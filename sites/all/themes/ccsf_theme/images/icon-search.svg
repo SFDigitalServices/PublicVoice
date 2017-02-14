@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Search icon@1.5x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="T1--Home-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-1440" transform="translate(-981.000000, -694.000000)" fill="#FFFFFF">
+            <path d="M993.5,705 L992.7,705 L992.4,704.7 C993.4,703.6 994,702.1 994,700.5 C994,696.9 991.1,694 987.5,694 C983.9,694 981,696.9 981,700.5 C981,704.1 983.9,707 987.5,707 C989.1,707 990.6,706.4 991.7,705.4 L992,705.7 L992,706.5 L997,711.5 L998.5,710 L993.5,705 L993.5,705 Z M987.5,705 C985,705 983,703 983,700.5 C983,698 985,696 987.5,696 C990,696 992,698 992,700.5 C992,703 990,705 987.5,705 L987.5,705 Z" id="Search-icon"></path>
+        </g>
+    </g>
+</svg>

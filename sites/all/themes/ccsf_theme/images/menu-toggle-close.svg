@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>exit menu</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="T1--Home-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile-menu" transform="translate(-274.000000, -32.000000)" fill="#FFFFFF">
+            <path d="M283.545942,38.7175144 L276.828427,32 L274,34.8284271 L280.717514,41.5459415 L274,48.263456 L276.828427,51.0918831 L283.545942,44.3743687 L290.263456,51.0918831 L293.091883,48.263456 L286.374369,41.5459415 L293.091883,34.8284271 L290.263456,32 L283.545942,38.7175144 Z" id="exit-menu"></path>
+        </g>
+    </g>
+</svg>
